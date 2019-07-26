@@ -1,4 +1,5 @@
 body {
+	height: 100%;
 	background-color: #83d0ff;
 	background: linear-gradient(#83d0ff 0%, #66b0f0 100%);
 }
